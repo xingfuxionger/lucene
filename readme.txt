@@ -1,1 +1,2 @@
 test lucene!
+data test
