@@ -1,2 +1,5 @@
 test lucene!
-data test
+data tst
+add data
+qweqweqwe
+dev
